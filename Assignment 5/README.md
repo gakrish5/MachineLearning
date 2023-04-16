@@ -5,4 +5,4 @@ We have evaluated the performances like confusion matrix, accuracy scores and cl
 It also decribes about different visualizations data.  <br />
 <br />
 
-Presented in Class
+Video Link: 
