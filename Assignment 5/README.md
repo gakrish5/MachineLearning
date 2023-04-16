@@ -5,4 +5,4 @@ We have evaluated the performances like confusion matrix, accuracy scores and cl
 It also decribes about visualizations data for Linear Discriminant Analysis. <br />
 <br />
 
-Video Link: https://drive.google.com/file/d/10PwKAqwnHisiq66aCDYBLcBcqJv4Lvvs/view
+Video Link: https://drive.google.com/file/d/10PwKAqwnHisiq66aCDYBLcBcqJv4Lvvs/view?usp=share_link
